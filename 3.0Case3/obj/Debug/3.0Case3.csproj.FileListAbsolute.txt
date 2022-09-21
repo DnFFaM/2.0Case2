@@ -1,0 +1,8 @@
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\bin\Debug\3.0Case3.exe.config
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\bin\Debug\3.0Case3.exe
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\bin\Debug\3.0Case3.pdb
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\obj\Debug\3.0Case3.csproj.AssemblyReference.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\obj\Debug\3.0Case3.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\obj\Debug\3.0Case3.csproj.CoreCompileInputs.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\obj\Debug\3.0Case3.exe
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\3.0Case3\3.0Case3\obj\Debug\3.0Case3.pdb
